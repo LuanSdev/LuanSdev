@@ -1,4 +1,4 @@
-## Hi there, welcome to my profile! - My name is Luan Souza
+## Luan Souza
 
 <div>
   <a href="https://github.com/LuanSdev">
