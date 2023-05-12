@@ -6,8 +6,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luansdev&layout=compact&langs_count=16&theme=dracula"/>
 <div>
 
-## About me
-- 🔭 I'm CTO at Onde Pouso in Curitiba/PR
+
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Ju-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
